@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./github-banner.png" alt="Rasib's Github Banner">
+<img src="./banner-dark.png" alt="Rasib's Github Banner">
 
 <br/>
  <!--- tittle --->
