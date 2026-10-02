@@ -1,11 +1,15 @@
+<!--- banner --->
+<img src="./github-banner.png" alt="Rasib's Github Banner">
+
+<br/>
+ <!--- tittle --->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mohammad Rasib Iftekhar Nabil</h1></summary>
     <!--- typo --->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=CSE+Student;Web+Developer;React+%26+Next.js+Enthusiast;Tech+%26+Design+Explorer" alt="Typing SVG" /></a>
-</div>
-<br/>
-
+</div> <br/> 
+    
 ---
 
 ## 👨‍💻 About Me
